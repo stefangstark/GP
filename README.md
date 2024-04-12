@@ -1,2 +1,2 @@
 # GP
-Tinkering before master thesis
+Tinkering with guassian processes for time series
